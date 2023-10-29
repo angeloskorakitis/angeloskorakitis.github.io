@@ -4,7 +4,7 @@
 # -----------------
 en: &DEFAULT_EN
   page                       : "Page"
-  pagination_previous        :
+  pagination_previous        : 
   pagination_next            : 
   breadcrumb_home_label      : "Home"
   breadcrumb_separator       : "/"
@@ -18,12 +18,12 @@ en: &DEFAULT_EN
   categories_label           :
   date_label                 : "Published:"
   comments_label             :
-  comments_title             :
+  comments_title             : 
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               :
-  feed_label                 :
-  powered_by                 :
+  follow_label               :  
+  feed_label                 : ""
+  powered_by                 : ""
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
