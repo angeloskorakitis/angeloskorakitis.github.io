@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year undergraduate student at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/en) of the [National and Kapodistrian University of Athens](https://en.uoa.gr/). I am currently working on my thesis under the supervision of [Prof. Christos Tzamos](https://tzamos.com). I am broadly interested in Machine Learning and Game Theory.
+I am a final year undergraduate student at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/en) of the [National and Kapodistrian University of Athens](https://en.uoa.gr/). I am currently working on my thesis under the supervision of [Prof. Christos Tzamos](https://tzamos.com). I am broadly interested Theoretical Computer Science and more specifically in Machine Learning and Game Theory.
 
 Please feel free to reach out to me at my e-mail: [angeloskorakitis@gmail.com](angeloskorakitis@gmail.com)
 
