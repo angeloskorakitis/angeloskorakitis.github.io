@@ -2,10 +2,10 @@
 title: "Data Structures and Programming Techniques"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/data-structures-nkua
 venue: "National and Kapodistrian University of Athens"
-date: 2014-01-01
-location: "City, Country"
+date: 2020
+location: "Athens, Greece"
 ---
 
-blah
+Assisted students with their lab exercises and projects.
