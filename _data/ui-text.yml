@@ -22,10 +22,10 @@ en: &DEFAULT_EN
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
   follow_label               :  
-  feed_label                 : ""
-  powered_by                 : ""
-  website_label              : "Website"
-  email_label                : "Email"
+  feed_label                 :
+  powered_by                 :
+  website_label              :
+  email_label                : 
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
