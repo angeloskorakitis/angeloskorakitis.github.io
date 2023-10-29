@@ -1,8 +1,8 @@
 ---
-title: "Data Structures and Programming Techniques"
+title: "Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/data-structures-nkua
+permalink: /teaching/introduction-to-programming-nkua
 venue: "National and Kapodistrian University of Athens"
 date: 2020
 location: "Athens, Greece"
