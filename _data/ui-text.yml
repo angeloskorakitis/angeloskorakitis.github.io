@@ -12,18 +12,18 @@ en: &DEFAULT_EN
   ext_link_label             : "Direct Link"
   less_than                  : "less than"
   minute_read                : "minute read"
-  share_on_label             : "Share on"
+  share_on_label             :
   meta_label                 :
-  tags_label                 : "Tags:"
-  categories_label           : "Categories:"
+  tags_label                 :
+  categories_label           :
   date_label                 : "Published:"
-  comments_label             : "Leave a Comment"
-  comments_title             : "Comments"
+  comments_label             :
+  comments_title             :
   more_label                 : "Learn More"
   related_label              : "You May Also Enjoy"
-  follow_label               : "Follow:"
-  feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  follow_label               :
+  feed_label                 :
+  powered_by                 :
   website_label              : "Website"
   email_label                : "Email"
   recent_posts               : "Recent Posts"
