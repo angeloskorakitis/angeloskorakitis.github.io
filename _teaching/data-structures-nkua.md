@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/data-structures-nkua
 venue: "National and Kapodistrian University of Athens"
-date: 2020
+date:
 location: "Athens, Greece"
 ---
 
