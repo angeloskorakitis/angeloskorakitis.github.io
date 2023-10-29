@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/introduction-to-programming-nkua
 venue: "National and Kapodistrian University of Athens"
-date:
+date: 2019-01-01
 location: "Athens, Greece"
 ---
 
