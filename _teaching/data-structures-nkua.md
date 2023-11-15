@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Programming Techniques"
+title: "TA, Data Structures and Programming Techniques"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/data-structures-nkua

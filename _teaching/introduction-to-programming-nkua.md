@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Programming"
+title: "TA, Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/introduction-to-programming-nkua
