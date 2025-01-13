@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr) graduate program, jointly offered by the University of Athens and the National Technical University of Athens. Previously, I completed my BSc in Informatics and Telecommunications at the [University of Athens](https://en.uoa.gr/), where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). I am broadly interested in Algorithms and Probability Theory.
+I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens. Previously, I completed my BSc in Informatics and Telecommunications at the [University of Athens](https://en.uoa.gr/), where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). I am broadly interested in Algorithms and Probability Theory.
 
 Please feel free to reach out to me at my e-mail: angeloskorakitis at gmail dot com
 
