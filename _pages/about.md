@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens. Previously, I completed my BSc at the [Department of Informatics and Telecommunications](https://www.di.uoa.gr/en) of the [University of Athens](https://en.uoa.gr/), where I completed my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). I am broadly interested in Algorithms and Probability Theory.
+I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr) graduate program, jointly offered by the University of Athens and the National Technical University of Athens. Previously, I completed my BSc at the Department of Informatics and Telecommunications of the [University of Athens](https://en.uoa.gr/), where I completed my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). I am broadly interested in Algorithms and Probability Theory.
 
 Please feel free to reach out to me at my e-mail: [angeloskorakitis@gmail.com](angeloskorakitis@gmail.com)
 
@@ -16,7 +16,7 @@ In my free time I enjoy strolling around and taking photos. You can find some of
 
 News
 ======
-- 2024-10-01: I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
+- 2024-10-01: I am starting my MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
