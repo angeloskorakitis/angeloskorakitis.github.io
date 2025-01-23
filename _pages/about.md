@@ -16,8 +16,8 @@ In my free time I enjoy strolling around and taking photos. You can find some of
 
 News
 ======
-- 21-01-2025: Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured 2nd place (6.000 euros) in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
-- 01-10-2024: I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
+- 21-01-2025 Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured 2nd place (6.000 euros) in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
+- 01-10-2024 I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
