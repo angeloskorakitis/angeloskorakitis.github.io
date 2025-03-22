@@ -2,19 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!-- Text can be **bold**, _italic_, or ~~strikethrough~~. -->
 
-[Link to another page](./another-page.html).
+<!-- [Link to another page](./another-page.html). -->
 
-There should be whitespace between paragraphs.
+<!-- There should be whitespace between paragraphs. -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project. -->
 
-# Header 1
+# About
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens. Previously, I completed my BSc in Informatics and Telecommunications at the [University of Athens](https://en.uoa.gr/), where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). I am broadly interested in Algorithms and Probability Theory.
 
-## Header 2
+Please feel free to reach out to me at my e-mail: angeloskorakitis at gmail dot com
+
+In my free time I enjoy strolling around and taking photos. You can find some of them [here](https://www.flickr.com/photos/199416085@N07/).
+
+# News 
+======
+*   21-01-2025 Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured **2nd place (6.000 euros)** in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
+*   01-10-2024 I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
+
+<!-- ## Header 2
 
 > This is a blockquote following a header.
 >
@@ -120,4 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
