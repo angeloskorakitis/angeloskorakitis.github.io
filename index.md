@@ -12,7 +12,7 @@ layout: default
 
 # About
 
-I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens, and a Research Scholar at [Archimedes AI](http://archimedesai.gr). Previously, I completed my BSc in Informatics and Telecommunications at the [University of Athens](https://en.uoa.gr/), where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). My research interests include algorithms, optimization, and machine learning, with an emphasis on bridging theory and practice.
+I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens, and a Research Scholar at [Archimedes AI](http://archimedesai.gr). Previously, I completed my BSc in Informatics and Telecommunications at the University of Athens, where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). My research interests include algorithms, optimization, and machine learning, with an emphasis on bridging theory and practice.
 
 Please feel free to reach out to me at my e-mail: 
 angeloskorakitis at gmail dot com
@@ -22,7 +22,7 @@ In my free time I enjoy strolling around and taking photos. You can find some of
 ## News 
 
 
-*  _03-11-2025_ Really happy to announce the successful completion of my Google Summer of Code 2025 project with [Geomscale Organization](https://geomscale.github.io), a [NumFOCUS](http://numfocus.org) affiliated project. You can read all about my contributions [here](https://angeloskorakitis.github.io/gsoc-2025).
+*  _03-11-2025_ Really happy to announce the successful completion of my Google Summer of Code 2025 project with [Geomscale](https://geomscale.github.io), a [NumFOCUS](http://numfocus.org) affiliated project. You can read all about my contributions [here](https://angeloskorakitis.github.io/gsoc-2025).
 *   _21-01-2025_ Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured **2nd place** in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
 *   _01-10-2024_ I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
 
