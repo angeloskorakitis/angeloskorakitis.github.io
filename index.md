@@ -12,7 +12,7 @@ layout: default
 
 # About
 
-I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens, and a Research Scholar at [Archimedes AI](http://archimedesai.gr). Previously, I completed my BSc in Informatics and Telecommunications at the University of Athens, where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). My research interests include algorithms, optimization, and machine learning, with an emphasis on bridging theory and practice.
+I am currently an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens, and a research scholar at [Archimedes AI](http://archimedesai.gr). Previously, I completed my BSc in Informatics and Telecommunications at the University of Athens, where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com). My research interests include algorithms, optimization, and machine learning, with an emphasis on bridging theory and practice.
 
 Please feel free to reach out to me at my e-mail: 
 angeloskorakitis at gmail dot com
