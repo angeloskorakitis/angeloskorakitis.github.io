@@ -12,7 +12,7 @@ layout: default
 
 # About
 
- I am a research scholar at [Archimedes AI](http://archimedesai.gr), and an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr), jointly offered by the University of Athens and the National Technical University of Athens.
+ I am a research scholar at [Archimedes AI](http://archimedesai.gr) and an MSc student in [Algorithms, Logic and Discrete Mathematics](http://alma.di.uoa.gr) program, jointly offered by the University of Athens and the National Technical University of Athens.
  Previously, I completed my BSc in Informatics and Telecommunications at the University of Athens, where I did my thesis under the supervision of Prof. [Christos Tzamos](https://tzamos.com).
  My research interests include algorithms, optimization, and machine learning, with an emphasis on bridging theory and practice.
 
