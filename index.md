@@ -23,7 +23,7 @@ In my free time I enjoy strolling around and taking photos. You can find some of
 
 ## News 
 
-
+* _13-03-2026_ Our paper ["Identifiable Estimation of Causal Concept Effects under Visual Latent Confounding"](https://openreview.net/forum?id=YgbhhZUExr) has been accepted for publication at the Workshop on Unifying Concept Representation Learning (UCRL) at ICLR 2026! 
 *  _03-11-2025_ Really happy to announce the successful completion of my Google Summer of Code 2025 project with [Geomscale](https://geomscale.github.io), a [NumFOCUS](http://numfocus.org) affiliated project. You can read all about my contributions [here](https://angeloskorakitis.github.io/gsoc-2025).
 *   _21-01-2025_ Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured **2nd place** in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
 *   _01-10-2024_ I am starting an MSc in Algorithms, Logic and Discrete Mathematics at the University of Athens.
