@@ -22,7 +22,7 @@ angeloskorakitis at gmail dot com
 In my free time I enjoy strolling around and taking photos. You can find some of them [here](https://www.flickr.com/photos/199416085@N07/).
 
 ## News 
-* _04-05-2026_ I attended the ICLR 2026 conference in Rio de Janeiro, Brazil! The attendance made possible by the generous support of [Jon Vlachogiannis Fund](https://jon.io/the-jon-vlachogiannis-fund).
+* _04-05-2026_ I attended the ICLR 2026 conference in Rio de Janeiro, Brazil! The attendance was made possible by the generous support of [Jon Vlachogiannis Fund](https://jon.io/the-jon-vlachogiannis-fund).
 * _13-03-2026_ Our paper ["Identifiable Estimation of Causal Concept Effects under Visual Latent Confounding"](https://openreview.net/forum?id=YgbhhZUExr) has been accepted as a poster at the Workshop on Unifying Concept Representation Learning (UCRL) at ICLR 2026! 
 *  _03-11-2025_ Really happy to announce the successful completion of my Google Summer of Code 2025 project with [Geomscale](https://geomscale.github.io), a [NumFOCUS](http://numfocus.org) affiliated project. You can read all about my contributions [here](https://angeloskorakitis.github.io/gsoc-2025).
 *   _21-01-2025_ Thrilled to share that together with Panagiotis Chatzimichos and Giorgos Vasilakopoulos, we secured **2nd place** in the [Future of Databases Programming Contest](https://databasecontest2024.athenarc.gr), organized by [Athena Research Center](https://www.athenarc.gr/) and sponsored by Huawei!
